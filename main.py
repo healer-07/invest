@@ -6,3 +6,5 @@ print(name [3:6] )
 print(name[::-1])
 print('healer' * 6)
 print('my name ' + ' your name')
+my_string = "hello world"
+print(len(my_string))
